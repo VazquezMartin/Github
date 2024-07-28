@@ -1,0 +1,12 @@
+{
+    "OrderID": 14325,
+    "Address": "Junin 300",
+    "Status": "Ready",
+    "Articles": [
+        {"Name": "Aceite",
+        "Price": 4000,
+        "Quantity": 2,
+        "Dangerous": false
+    }
+    ]
+}
